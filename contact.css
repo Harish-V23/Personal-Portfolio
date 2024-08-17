@@ -1,0 +1,106 @@
+.harish{
+
+  display: flex;
+  margin-top: 20px;
+}
+
+a{
+
+  text-decoration: none;
+  color: black;
+  font-size: 15px;
+}
+.img{
+
+  height: 200px;
+  width: auto;
+  border: solid 3px black;
+  margin: 30px;
+  display: inline-flex;
+}
+
+.img:hover{
+
+  height: 225px;
+  width: auto;
+  border: solid 3px black;
+  margin: 30px;
+  display: inline-flex;
+  transition: 1s;
+}
+
+.profile{
+
+  border: solid 2px black;
+  margin: 0px 0px 0px 70px ;
+  text-align: left;
+}
+
+th{
+
+  border: solid 2px black;
+  width: 200px;
+  padding: 0px 0px 0px 40px ;
+
+}
+
+td{
+
+  border: solid 2px black;
+  width: 500px; 
+  padding: 0px 0px 0px 40px ;
+
+}
+
+.prof_button{
+
+  margin: 0px 20px 20px 50px;
+  height: 30px;
+}
+
+.kavyaa{
+
+  display: flex;
+  margin-top: 100px;
+}
+
+.img{
+
+  height: 200px;
+  width: auto;
+  border: solid 3px black;
+  margin: 30px;
+  display: inline-flex;
+}
+
+
+
+
+.table,tr,th,td{
+
+  border: solid 2px black;
+  margin: 200px 200px  200px 200px ;
+}
+
+.prof_button{
+
+  margin: 0px 20px 20px 50px;
+  height: 30px;
+}
+
+button{
+
+  background-color: gray;
+  color: white;
+  border-radius: 8px;
+}
+
+button:hover{
+
+  font-size: 15px;
+  height: 35px;
+  background-color: gray;
+  color: white;
+  border-radius: 8px;
+  transition: 1s;
+}
