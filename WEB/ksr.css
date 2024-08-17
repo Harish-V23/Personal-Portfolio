@@ -1,0 +1,253 @@
+*{
+  
+  padding: 0%;
+  margin: 0%;
+
+}
+
+
+.nav{
+
+  display: inline-flex;
+  border: solid 2px black;
+  border-radius: 5px;
+  box-shadow: 10px 10px 40px 0px;
+
+}
+
+
+.logo{
+
+  width: 210px;
+  padding: 5px;
+  border: solid 3px black;
+  margin: 20px 20px 20px 40px;
+  display: inline-flex;
+  
+
+}
+
+.logo_img{
+
+  height: 70px;
+  width: auto;
+  display: inline-flex;
+  
+}
+
+.nav_bar{
+
+  display: inline-flex;
+  padding-left: 712px;
+  
+  
+}
+
+.home,.about,.gallery,.contact{
+
+  color: black;
+  padding: 45px 40px 20px 20px;
+  font-size: 25px;
+  
+  
+}
+
+.contact_a,.gallery_a,.about_a,.home-a{
+
+  color: black;
+  text-decoration: none;
+}
+
+.scroll_msg{
+
+  width: 510px;
+  display: flex;
+  border: solid 2px black;
+  border-radius: 10px;
+  margin: 50px 50px 50px 970px;
+  padding: 10px;
+  
+  
+}
+.scroll_msg span{
+
+  display: inline-block;
+  height: 30px;
+  text-align: center;
+  width: 70px;
+  font-size: 20px;
+  padding: 0px 20px 0px 0px;
+  font-weight: bold;
+  
+}
+
+
+.scroll_msg marquee{
+
+  font-size: 20px;
+  color: red;
+  padding: 0px 1px 0px 40px;
+  width: 400px;
+  
+}
+
+.clg_name{
+
+  font-size: 50px;
+  text-align: center;
+  margin: 130px 150px 0px 150px;
+
+}
+
+.clg_name:hover{
+
+  font-size: 55px;
+  color: blue;
+  text-align: center;
+  transition: 2s;
+
+}
+
+.clg_name_h3{
+
+  font-size: 40px;
+  text-align: center;
+  margin: 20px 150px 70px 150px;
+}
+
+.parent{
+
+  border: solid 2px black;
+  height: 530px;
+  width: auto;
+  margin:  20px 20px 40px 20px;
+  display: flex;
+}
+
+.leave{
+
+  border: solid 2px black;
+  height: 510px;
+  width: 700px;
+}
+
+.od{
+
+  border: solid 2px black;
+  height: 480px;
+  width: 700px;
+}
+
+
+.leave{
+
+  padding: 20px 20px 0px 60px;
+  text-align: center;
+  
+}
+
+.leave h1{
+
+  padding: 20px 20px 0px 60px;
+  text-align: center;
+  text-decoration: underline;
+  padding: 30px;
+  
+}
+
+.leave li{
+
+  padding: 20px;
+  font-size: 20px;
+  text-align: left;
+}
+
+.leave a{
+
+  padding: 20px 20px 20px 10px;
+}
+
+
+.leave_button{
+
+  height: 50px;
+  width: 150px;
+  text-align: center;
+  margin: 50px 00px 0px 0px;
+  font-weight: bold;
+  border-radius: 10px;
+}
+
+.leave_button:hover{
+
+  font-size: 15px;
+  height: 60px;
+  width: 175px;
+  text-align: center;
+  margin: 50px 00px 0px 0px;
+  font-weight: bolder;
+  border-radius: 13px;
+  color: white;
+  background-color: gray;
+  transition: 1s;
+  cursor: pointer;
+}
+
+
+.od{
+
+  padding: 20px 20px 0px 60px;
+  text-align: center;
+  padding: 25px;
+  
+}
+
+.od h1{
+
+  text-decoration: underline;
+  padding: 20px 20px 0px 60px;
+  text-align: center;
+  padding: 25px;
+  
+}
+
+.od li{
+
+  padding: 15px ;
+  font-size: 20px;
+  text-align: left;
+}
+
+.od ol{
+
+  padding: 12px;
+}
+
+.od a{
+
+  padding: 20px 20px 20px 10px;
+}
+
+
+.od_button{
+
+  height: 55px;
+  width: 250px;
+  margin: 40px 40px 40px 40px;
+  font-weight: bold;
+  border-radius: 10px;
+}
+
+.od_button:hover{
+
+  font-size: 15px;
+  height: 65px;
+  width: 265px;
+  margin: 40px 40px 40px 40px;
+  font-weight: bolder;
+  border-radius: 13px;
+  color: white;
+  background-color: gray;
+  transition: 1s;
+  cursor: pointer;
+}
